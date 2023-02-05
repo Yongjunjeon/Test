@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.AssemblyInfo.cs
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.exe
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.deps.json
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.runtimeconfig.json
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.runtimeconfig.dev.json
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.dll
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\ref\Yongjunjeon.dll
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\bin\Debug\net5.0\Yongjunjeon.pdb
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.dll
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\ref\Yongjunjeon.dll
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.pdb
+C:\Users\admin\Desktop\새 폴더 (4)\Yongjunjeon\obj\Debug\net5.0\Yongjunjeon.genruntimeconfig.cache
